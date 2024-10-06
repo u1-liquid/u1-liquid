@@ -13,12 +13,18 @@
 </picture>
 
 ### 👋 手を振る / :wave:
-【重要】 まっちゃとーにゅです。まっちゃとーにゅーではありません。
+<details open>
+<summary>あわわわとーにゅです。</summary>
+
+* ~ 2024-10-06 まっちゃとーにゅ
+* ~ 2020-06-17 サツキ
+
+</details>
 
 ### 📫 わたしへの連絡方法 / How to reach me
 プロジェクトやIssueに関する連絡はそのIssueに書いて下さい。
 * Fediverse: [@u1_liquid@misskey.io](https://misskey.io/@u1_liquid)  
-* Discord: [@mchasmlk](https://discord.com/users/296564579536863232)  
+* Discord: [@awasmlk](https://discord.com/users/296564579536863232)  
 
 ### ⚡ 実は / In fact
 * 一人称として「私」を使っているわたしは偽物の可能性があります。ご注意ください。
