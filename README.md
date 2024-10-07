@@ -24,7 +24,7 @@
 ### 📫 わたしへの連絡方法 / How to reach me
 プロジェクトやIssueに関する連絡はそのIssueに書いて下さい。
 * Fediverse: [@u1_liquid@misskey.io](https://misskey.io/@u1_liquid)  
-* Discord: [@awasmlk](https://discord.com/users/296564579536863232)  
+* Discord: [@awasoymilk](https://discord.com/users/296564579536863232)  
 
 ### ⚡ 実は / In fact
 * 一人称として「私」を使っているわたしは偽物の可能性があります。ご注意ください。
