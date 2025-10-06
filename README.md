@@ -33,15 +33,3 @@
 * WebフロントエンドフレームワークはVue.jsよりReactの方が好きです。仕事ではNext.jsしか使いません。
 * バックエンドエンジニアなのでフロントエンドは必要最低限のことしかできません。CSSなんもわからん
 * なんでもRustで再実装することが正義だと思っている人たちが凄く嫌いでRustも嫌いです。
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=u1_liquid&layout=compact&display_format=percent&theme=dark"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=u1_liquid&layout=compact&display_format=percent"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=u1_liquid&layout=compact&display_format=percent&theme=dark" />
-</picture>
