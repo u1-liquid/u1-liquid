@@ -33,4 +33,14 @@
 * バックエンドエンジニアなのでフロントエンドは必要最低限のことしかできません。CSSなんもわからん
 * なんでもRustで再実装することが正義だと思っている人たちが凄く嫌いでRustも嫌いです。
 
-<img src="https://wakatime.com/share/@u1_liquid/1b927703-3c4f-42c8-990f-cf04eb4f4384.svg" />
+<picture>
+  <source
+    srcset="https://wakatime.com/share/@u1_liquid/1b927703-3c4f-42c8-990f-cf04eb4f4384.svg"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://wakatime.com/share/@u1_liquid/57de673b-0f2d-4dd9-9d89-ba284a71aaf3.svg"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://wakatime.com/share/@u1_liquid/1b927703-3c4f-42c8-990f-cf04eb4f4384.svg" />
+</picture>
