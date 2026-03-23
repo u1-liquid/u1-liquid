@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+      - name: Generate stats card (light)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -23,10 +23,10 @@ jobs:
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: top-langs
+          card: stats
           options: username=${{ github.repository_owner }}&include_all_commits=true&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
