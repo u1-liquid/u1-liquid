@@ -2,14 +2,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=u1-liquid&include_all_commits=true&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="./profile/stats-dark.svg"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=u1-liquid&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    srcset="./profile/stats-light.svg"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=u1-liquid&include_all_commits=true&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img src="./profile/stats-dark.svg" />
 </picture>
 
 ### 👋 手を振る / :wave:
