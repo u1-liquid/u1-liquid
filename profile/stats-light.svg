@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#12354;&#12431;&#12431;&#12431;&#12392;&#12540;&#12395;&#12421;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  : 9713, Total PRs: 1193, Total PRs Merged: 1132, Merged PRs Percentage: 94.89, Total PRs Reviewed: 192, Total Issues: 115, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  : 9713, Total PRs: 1193, Total PRs Merged: 1132, Merged PRs Percentage: 94.89, Total PRs Reviewed: 191, Total Issues: 116, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 65.54833705092574;
+        stroke-dashoffset: 65.52472142850341;
       }
     }
   
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >192</text>
+      >191</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >115</text>
+      >116</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
