@@ -23,7 +23,7 @@
 
 ### 📫 わたしへの連絡方法 / How to reach me
 プロジェクトやIssueに関する連絡はそのIssueに書いて下さい。
-* Fediverse: [@u1_liquid@misskey.io](https://misskey.io/@u1_liquid)  
+* Twitter (自称X): [@awasoymilk](https://x.com/awasoymilk)  
 * Discord: [@awasoymilk](https://discord.com/users/296564579536863232)  
 
 ### ⚡ 実は / In fact
